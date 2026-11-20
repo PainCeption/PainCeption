@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**PainCeption/PainCeption** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer based in Finland, currently focused on **backend development** and working toward a career in **Data Engineering**.
 
-Here are some ideas to get you started:
+I enjoy problem-solving, building practical applications, and understanding how software works under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Backend:** Flask, REST APIs, Authentication
+- **Databases:** SQLite
+- **Tools:** Git, GitHub, VS Code, pytest
+- **Other:** Pygame, JWT, JSON
+
+### 🚀 Projects
+- **Task Manager API:** Flask REST API with JWT authentication, password hashing, and SQLite.
+- **Python Game:** 2D Pygame game featuring enemy AI, collision detection, and dynamic hazards.
+- **Reservation Calendar:** Collaborative full-stack project using Flask, SQLite, and React.
+
+### 📚 Education
+- Completed the University of Helsinki's **Introduction to Programming** and **Advanced Course in Programming** (Python).
+
+### 🎯 Currently Exploring
+- Backend architecture, database design, and Data Engineering.
