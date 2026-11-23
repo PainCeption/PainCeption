@@ -6,7 +6,7 @@ I'm a Python developer based in Finland, currently focused on **backend developm
 
 I enjoy problem-solving, building practical applications, and understanding how software works under the hood.
 
-### 🛠️ Tech Stack
+### 🤹 Technologies I juggle
 - **Languages:** Python, SQL
 - **Backend:** Flask, REST APIs, Authentication
 - **Databases:** SQLite
@@ -16,7 +16,7 @@ I enjoy problem-solving, building practical applications, and understanding how 
 ### 📚 Education
 - Completed the University of Helsinki's **Introduction to Programming** and **Advanced Course in Programming** (Python).
 
-### 🎯 Currently Exploring
+### 🎯 Work in progress to become
 - Backend architecture, database design, and Data Engineering.
 
 
