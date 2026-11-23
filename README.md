@@ -32,7 +32,7 @@ I enjoy problem-solving, building practical applications, and understanding how 
 
 | Project | Description | Technologies | Status | Link |
 |---|---|---|---|---|
-| **Task Manager API** | REST API with JWT authentication, password hashing, and SQLite integration | Python, Flask, SQLite | ✅ Complete | [View Code](https://github.com/PainCeption/flask-task-manager-api)) |
+| **Task Manager API** | REST API with JWT authentication, password hashing, and SQLite integration | Python, Flask, SQLite | ✅ Complete | [View Code](https://github.com/PainCeption/flask-task-manager-api) |
 | **Python Game** | 2D game featuring enemy AI, collision detection, and dynamic hazards | Python, Pygame | ✅ Complete | [View Code](https://github.com/PainCeption/Robot-escape) |
 
 #### 🤝 Collaborative Projects
