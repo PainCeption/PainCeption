@@ -1,6 +1,6 @@
 ![PainCeption Banner](PainCeption.png)
 
-## Hi there! 👋
+## Welcome to my portfolio! 👋🐍
 
 I'm a Python developer based in Finland, currently focused on **backend development** and working toward a career in **Data Engineering**.
 
