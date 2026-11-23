@@ -23,3 +23,20 @@ I enjoy problem-solving, building practical applications, and understanding how 
 
 ### 🎯 Currently Exploring
 - Backend architecture, database design, and Data Engineering.
+
+
+
+### 🚀 Projects
+
+#### 👨‍💻 Solo Projects
+
+| Project | Description | Technologies | Status | Link |
+|---|---|---|---|---|
+| **Task Manager API** | REST API with JWT authentication, password hashing, and SQLite integration | Python, Flask, SQLite | ✅ Complete | [View Code](https://github.com/PainCeption/flask-task-manager-api)) |
+| **Python Game** | 2D game featuring enemy AI, collision detection, and dynamic hazards | Python, Pygame | ✅ Complete | [View Code](https://github.com/PainCeption/Robot-escape) |
+
+#### 🤝 Collaborative Projects
+
+| Project | Description | Technologies | Status | Link |
+|---|---|---|---|---|
+| **Reservation Calendar** | Full-stack reservation system; responsible for backend development | Flask, SQLite, React | 🚧 In Progress | [View Code](https://github.com/PainCeption/reservation-calendar) |
