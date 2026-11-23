@@ -31,4 +31,4 @@ I enjoy problem-solving, building practical applications, and understanding how 
 
 | Project | Description | Technologies | Status | Link |
 |---|---|---|---|---|
-| **Reservation Calendar** | Full-stack reservation system; responsible for backend development | Flask, SQLite, React | 🚧 In Progress | [View Code](https://github.com/PainCeption/reservation-calendar) |
+| **Reservation Calendar** | Full-stack reservation system; responsible for backend development | Flask, SQLite, Python | 🚧 In Progress | [View Code](https://github.com/PainCeption/reservation-calendar) |
