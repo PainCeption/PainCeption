@@ -26,6 +26,8 @@ I enjoy problem-solving, building practical applications, and understanding how 
 |---|---|---|---|---|
 | **Task Manager API** | REST API with JWT authentication, password hashing, and SQLite integration | Python, Flask, SQLite | ✅ Complete | [View Code](https://github.com/PainCeption/flask-task-manager-api) |
 | **Python Game** | 2D game featuring enemy AI, collision detection, and dynamic hazards | Python, Pygame | ✅ Complete | [View Code](https://github.com/PainCeption/Robot-escape) |
+|---|---|---|---|---|
+| **GUI Calculator** | Modern desktop calculator with a dark-themed interface, built using CustomTkinter | Python, CustomTkinter | 🚧 In Progress | [View Code](https://github.com/PainCeption/Calculator-GUI) |
 
 #### 🤝 Collaborative Projects
 
